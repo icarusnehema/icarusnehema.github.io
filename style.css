@@ -942,23 +942,23 @@ body.loaded main {
 }
 
 .social-icons__link[data-platform="spotify"]:hover {
-  background: #1db954;
-  border-color: #1db954;
+  background: #3070B3;
+  border-color: #457EBB;
 }
 
 .social-icons__link[data-platform="youtube"]:hover {
-  background: #ff0000;
-  border-color: #ff0000;
+  background: #3070B3;
+  border-color: #457EBB;
 }
 
 .social-icons__link[data-platform="tiktok"]:hover {
-  background: #000000;
-  border-color: #ff0050;
+  background: #3070B3;
+  border-color: #457EBB;
 }
 
 .social-icons__link[data-platform="audio"]:hover {
-  background: #dfd10c;
-  border-color: #f7ee62;
+  background: #3070B3;
+  border-color: #457EBB;
 }
 
 .social-icons__link[data-platform="impressum"]:hover {
