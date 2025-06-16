@@ -937,8 +937,8 @@ body.loaded main {
 }
 
 .social-icons__link[data-platform="instagram"]:hover {
-  background: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
-  border-color: #bc1888;
+  background: #3070B3;
+  border-color: #457EBB;
 }
 
 .social-icons__link[data-platform="spotify"]:hover {
