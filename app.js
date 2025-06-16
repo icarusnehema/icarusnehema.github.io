@@ -350,7 +350,7 @@ function createDirtParticle() {
   dot.style.animationDelay = `${randomBetween(0, 60)}s`;
 
   container.appendChild(dot);
-  setTimeout(() => dot.remove(), 60000); // nach 60 s löschen
+  setTimeout(() => dot.remove(), 240000); // nach 240 s löschen
 }
 
 // Viele Punkte zu Beginn erzeugen
