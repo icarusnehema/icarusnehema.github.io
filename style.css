@@ -962,8 +962,8 @@ body.loaded main {
 }
 
 .social-icons__link[data-platform="impressum"]:hover {
-  background: darkgreen;
-  border-color: lightgreen;
+  background: #3070B3;
+  border-color: #457EBB;
 }
 
 /* Content Sections */
