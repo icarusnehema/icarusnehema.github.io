@@ -862,8 +862,8 @@ body.loaded main {
   letter-spacing: 0.03em;     /* etwas enger als vorher */
   margin-bottom: 1.5rem;
 
-  /* Grundfarbe: Toluidine Blau */
-  color: #274871;
+  /* Grundfarbe: kräftiges Bio-Rot */
+  color: #B30000;
 
   /* Animation: Farbton leicht ändern (Helligkeit pulsieren) */
   animation: colorPulse 8s ease infinite alternate;
