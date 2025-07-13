@@ -319,7 +319,7 @@ function createDirtParticle() {
   dot.style.top = `${y}px`;
 
   // Farbe zwischen Tuluidinblau und Dunkelviolett
-  const color = interpolateColor('#3A66A3', '#8A2BE2', Math.random());
+  const color = interpolateColor('#3A66A3', '#C41E3A', Math.random());
 
   // Typen von Partikeln
   const type = Math.random();
