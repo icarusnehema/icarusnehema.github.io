@@ -1,13 +1,13 @@
-# Toluidine – Offizielle Band-Homepage
+# RuBisCO – Offizielle Band-Homepage
 
-Willkommen im offiziellen GitHub-Repository der Band **Toluidine**!
+Willkommen im offiziellen GitHub-Repository der Band **RuBisCO**!
 
 Dies ist die technische Grundlage für unsere Website, auf der ihr alles über unsere Musik, anstehende Konzerte, Veröffentlichungen und mehr erfahren könnt.  
 Die Seite wird regelmäßig aktualisiert und dient als zentrale Anlaufstelle für unsere Community und alle, die unsere Musik entdecken möchten.
 
 ## 🔗 Live-Version
 
-👉 [www.toluidine.com]
+👉 [www.RuBisCO.com]
 
 ## 📁 Inhalt des Repositories
 
@@ -23,4 +23,4 @@ Bei Fragen oder Ideen gerne ein Issue erstellen oder einen Pull Request vorschla
 ---
 
 Danke für euren Support!  
-🎸 **Toluidine**
+🎸 **RuBisCO**
